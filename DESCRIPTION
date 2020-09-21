@@ -18,3 +18,5 @@ Imports:
     dplyr,
     fuzzyjoin,
     purrrlyr
+URL: https://github.com/jimbrig/dedup
+BugReports: https://github.com/jimbrig/dedup/issues
